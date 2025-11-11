@@ -1,5 +1,5 @@
 
-# Eduverse v6 — Full‑Stack AI E‑Learning with Auth (JWT)
+# Eduverse — Full‑Stack AI E‑Learning with Auth (JWT)
 
 - Auth: Login & Signup (JWT, bcrypt), protected AI/Exams/Practice
 - Backend: Node/Express, MongoDB (Mongoose), OpenAI
